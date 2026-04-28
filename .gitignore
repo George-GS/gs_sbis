@@ -1,0 +1,13 @@
+venv
+.idea
+.vscode/
+.DS_Store
+Thumbs.db
+.pytest_cache
+.venv
+__pycache__
+*.pyc
+credentials.py
+.env
+**/allure-reports/
+**/allure-results/
